@@ -1,7 +1,7 @@
 # User and Video Game Management Application with JUnit Testing
 
 ## Description
-This application is a user and video game management system that allows users to register, log in, and manage a list of video games. Users can add, list, and delete video games while ensuring data integrity and security.
+This application is a user and video game management system that allows users to register, log in, and manage a list of video games. Users can add and list while ensuring data integrity and security.
 
 ## Features
 
@@ -12,7 +12,6 @@ This application is a user and video game management system that allows users to
 ### Video Game Management
 - **Add Video Game:** Users can add video games to a `videojuegos.txt` file, specifying the game name, company, and rating (score). Validations ensure proper input.
 - **List Video Games:** Users can view all video games stored in the file in a readable format.
-- **Delete Video Game (Optional):** Users can delete a video game by name, updating the `videojuegos.txt` file accordingly.
 
 ### Testing
 - **JUnit Testing:** The application includes unit tests implemented with JUnit to ensure all features function correctly and maintain code quality. All tests must pass, and a coverage report should be generated to monitor test effectiveness.
