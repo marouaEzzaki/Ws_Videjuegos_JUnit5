@@ -21,7 +21,7 @@ This application is a user and video game management system that allows users to
 
 ##Contributing
 
-Contributions are welcome! Please follow these steps:
+- **Contributions are welcome! Please follow these steps:
 
 Fork the repository.
 1. Create a feature branch.
