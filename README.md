@@ -1,7 +1,7 @@
 # User and Video Game Management Application with JUnit Testing
 
 ## Description
-This application is a user and video game management system that allows users to register, log in, and manage a list of video games. Users can add and list while ensuring data integrity and security.
+This application is a user and video game management system that allows users to register, log in, and manage a list of video games. Users can add and list games while ensuring data integrity and security.
 
 ## Features
 
@@ -14,17 +14,15 @@ This application is a user and video game management system that allows users to
 - **List Video Games:** Users can view all video games stored in the file in a readable format.
 
 ### Testing
-- **JUnit Testing:** The application includes unit tests implemented with JUnit to ensure all features function correctly and maintain code quality. 
+- **JUnit Testing:** The application includes unit tests implemented with JUnit to ensure all features function correctly and maintain code quality.
 
 ## Non-Functional Requirements
 - **Three-Layer Architecture:** The application follows a three-layer model: presentation, business, and data access.
 
-##Contributing
-
-- **Contributions are welcome! Please follow these steps:
-
-Fork the repository.
-1. Create a feature branch.
-2. Commit your changes.
-3. Push to the branch.
-4. Create a pull request.
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Create a pull request.
