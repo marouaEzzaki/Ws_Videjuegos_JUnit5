@@ -23,8 +23,8 @@ This application is a user and video game management system that allows users to
 
 Contributions are welcome! Please follow these steps:
 
-  Fork the repository.
-  Create a feature branch.
-  Commit your changes.
-  Push to the branch.
-  Create a pull request.
+Fork the repository.
+Create a feature branch.
+Commit your changes.
+Push to the branch.
+Create a pull request.
