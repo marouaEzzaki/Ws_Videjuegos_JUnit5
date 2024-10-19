@@ -14,7 +14,7 @@ This application is a user and video game management system that allows users to
 - **List Video Games:** Users can view all video games stored in the file in a readable format.
 
 ### Testing
-- **JUnit Testing:** The application includes unit tests implemented with JUnit to ensure all features function correctly and maintain code quality. All tests must pass, and a coverage report should be generated to monitor test effectiveness.
+- **JUnit Testing:** The application includes unit tests implemented with JUnit to ensure all features function correctly and maintain code quality. 
 
 ## Non-Functional Requirements
 - **Three-Layer Architecture:** The application follows a three-layer model: presentation, business, and data access.
