@@ -18,3 +18,13 @@ This application is a user and video game management system that allows users to
 
 ## Non-Functional Requirements
 - **Three-Layer Architecture:** The application follows a three-layer model: presentation, business, and data access.
+
+##Contributing
+
+Contributions are welcome! Please follow these steps:
+
+  Fork the repository.
+  Create a feature branch.
+  Commit your changes.
+  Push to the branch.
+  Create a pull request.
